@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("fake logic and world");
+        System.out.println(" world");
     }
 }
