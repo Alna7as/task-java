@@ -1,0 +1,6 @@
+start
+  Declare x, y, sum = 0
+  Input x, y
+  sum = x + y
+  Print sum
+End
