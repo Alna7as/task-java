@@ -1,4 +1,4 @@
-```java
+
 import java.util.Scanner;
 
 public class PrintNameIDAndEmail {
@@ -31,4 +31,3 @@ public class PrintNameIDAndEmail {
 }
 ```
 
-هل تحب أن أرسل لك نسخة PDF أو ملف Java جاهز للتحميل؟
